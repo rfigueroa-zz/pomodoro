@@ -18,3 +18,4 @@ if(!bg.timerOn){
   timer.innerHTML = bg.format(bg.current/1000);//dateElements[dateElements.length-2];
   timer.dispatchEvent(new MouseEvent('click'));
 }
+//edited
